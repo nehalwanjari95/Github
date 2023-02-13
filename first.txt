@@ -2,5 +2,3 @@ Hello Git
 
 Today is 10th-feb-2023.
 This Morning is happy.
-retry git program
-hello-------
